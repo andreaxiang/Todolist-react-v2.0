@@ -2,7 +2,7 @@
   "name": "react-temp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andreaxiang.github.io/react-temp/build",
+  "homepage": "http://andreaxiang.github.io/Todolist-react-v2.0/build",
   "dependencies": {
     "leancloud-storage": "^3.0.1",
     "normalize.css": "^7.0.0",
