@@ -18,3 +18,5 @@
 #### 1. HTML/CSS/JavaScript
 #### 2. 使用create-react-app搭建应用，利用React对页面进行传递数据、加载、局部刷新等
 #### 3. 使用leanCloud SDK 存储数据
+
+## 测试账号：andrea 123456
